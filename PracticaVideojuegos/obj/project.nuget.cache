@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+wa9dXUWMfc8LJJhXNr2SkFUr0P3922z7SQVF2tHsa4X8Vm3LKqFX6TLbzXfx7yWQqvCeGlbo1LSB8EgBCso9Q==",
+  "dgSpecHash": "GyQ4tAj8b8N8yW9f6VGSL+OpowzgE6HcDhbX5BfR9lvGJjNzMgkOyjjtOVglVxQSGHhL8AiTYbKxafx2BL5gMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joset\\Desktop\\PracticaVideojuegos\\PracticaVideojuegos.csproj",
+  "projectFilePath": "C:\\Users\\joset\\source\\VideoJuegos\\PracticaVideojuegos\\PracticaVideojuegos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joset\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\joset\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
